@@ -1,1 +1,2 @@
 c:\users\michael\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Michael\Documents\tic-tac-toe\TicTacToe\bin\Debug\TicTacToe.exe.config
